@@ -1,4 +1,4 @@
-# 57. Parallel workers in git worktrees
+# Parallel workers in git worktrees
 
 Run `npm ci`, then `npm run dev` with Node 24 or newer and Git on PATH. Open **Multi-agent systems → 57. Parallel workers in git worktrees**, or `?lesson=57`. Sample57 uses backend port **3057**, with Vite on **5173** or the next available port.
 
